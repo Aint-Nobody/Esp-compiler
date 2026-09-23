@@ -1,6 +1,6 @@
 // =====================================================================
 // wifi_monitor.ino
-// Version: 2.30.51      Generiert: 2026-09-18 (KOMPILIERUNGSFIX zu 2.30.50:
+// Version:  2.30.51      Generiert: 2026-09-18 (KOMPILIERUNGSFIX zu 2.30.50:
 //                        "ScenarioEncoder was not declared in this scope"
 //                        (Folgefehler: "redeclared as different kind of
 //                        entity" an mehreren Stellen). Gleiche Fehlerklasse
